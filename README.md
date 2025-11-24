@@ -128,8 +128,8 @@ Evaluación del experimento recommender_system_test, validando el impacto de un 
 
 # 📬 **Contacto**
 
-📧 **Email:** tu_correo  
-💼 **LinkedIn:** (tu enlace aquí)  
-🐙 **GitHub:** github.com/tu_usuario  
+📧 **Email:** monicabacae21@outlook.es 
+💼 **LinkedIn:** (https://www.linkedin.com/in/monica-baca-9a00001a3/)
+🐙 **GitHub:** (https://github.com/monybaca)
 
 Estoy abierta a colaborar en proyectos, análisis freelance y roles de Data Analyst.
